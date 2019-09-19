@@ -6,7 +6,7 @@
 }
 
 body{
-    background-color: red;
+    background-color: rebeccapurple;
 
 }
 
@@ -19,18 +19,22 @@ footer{
     text-align: center;
 }
 
-.resume section{
+.resume_pic{
+    text-align: center;
+    justify-content: left;
+    padding-right: 30px;
+
 
 }
+
 .container {
-    font-size: 70%;
-    font-family: cursive;
+    font-size: 20px;
+    font-family: "Courier 10 Pitch";
 }
-
 
 .dos {
     font-family: "Courier 10 Pitch";
-    font-size: 60px
+    font-size: 25px
 }
 
 .why{
@@ -44,3 +48,80 @@ footer{
     font-size: 45px;
 }
 
+.language1 {
+    text-align: center;
+    font-size: 30px;
+    font-family: "Courier 10 Pitch";
+}
+.language2 {
+    text-align: center;
+    font-size: 30px;
+    font-family: "Courier 10 Pitch";
+}
+.language3 {
+    text-align: center;
+    font-size: 30px;
+    font-family: "Courier 10 Pitch";
+}
+.language4 {
+    text-align: center;
+    font-size: 30px;
+    font-family: "Courier 10 Pitch";
+}
+.language5 {
+    text-align: center;
+    font-size: 30px;
+    font-family: "Courier 10 Pitch";
+}
+
+.container2{
+    text-align: center;
+}
+
+.end{
+    text-align-last: center;
+}
+.container3 {
+    text-align: center;
+     display: block;
+}
+
+.row justify content center{
+    text-align: center;
+}
+
+header{
+    text-align: center;
+    font-size: 30px;
+    font-family: "Courier 10 Pitch";
+    color: mediumblue;
+}
+
+.contact{
+    text-align: center;
+    justify-content: left;
+    padding-right: 100px;
+    margin-left: 550px;
+
+}
+
+.fa fa-map-marker{
+    padding-top: 500px;
+    width: 30px;
+    height: 40px;
+    text-align: left;
+    margin-right: 400px;
+}
+
+.fa fa-phone{
+    padding-top: 500px;
+    width: 30px;
+    margin-right: 400px;
+
+}
+.fa fa-envelope{
+    padding-top: 500px;
+    width: 30px;
+    margin-right: 400px;
+
+}
