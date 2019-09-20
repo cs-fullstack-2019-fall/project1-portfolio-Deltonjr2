@@ -156,46 +156,47 @@ p{
 }
 
 .edu1{
+    text-align: center;
     font-size: 30px;
     font-family: "Courier 10 Pitch";
-    text-align: center;
 }
 
 
 .edu2{
-
-
+text-align: center;
+margin-left: 650px;
 }
 
 
 .edu3{
-
-
+text-align: center;
+margin-left: 650px;
 
 }
 .edu4{
+    text-align: center;
     font-size: 30px;
     font-family: "Courier 10 Pitch";
-    text-align: center;
 }
 .edu5{
-
+text-align: center;
+margin-left: 650px;
 }
-.edu6{
+.edu6 {
     text-align: center;
     font-size: 30px;
     font-family: "Courier 10 Pitch";
 }
 .edu7{
-
-
+text-align: center;
+margin-left: 650px;
 
 }
 
 .edu8{
+    text-align: center;
     font-size: 30px;
     font-family: "Courier 10 Pitch";
-    float: right;
 
 }
 
