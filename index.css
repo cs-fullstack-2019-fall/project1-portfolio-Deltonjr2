@@ -6,7 +6,7 @@
 }
 
 body{
-    background-color: rebeccapurple;
+/home/student/CodeSchool/IdeaProjects/html/profile/project1-portfolio-Deltonjr2;
 
 }
 
@@ -23,6 +23,7 @@ footer{
     text-align: center;
     justify-content: left;
     padding-right: 30px;
+    border-image: initial;
 
 
 }
@@ -30,6 +31,7 @@ footer{
 .container {
     font-size: 20px;
     font-family: "Courier 10 Pitch";
+    margin: 60px;
 }
 
 .dos {
@@ -79,7 +81,12 @@ footer{
 }
 
 .end{
-    text-align-last: center;
+    position:relative;
+    left:45%;
+    right:30%;
+    bottom:5%;
+    top:60%;
+
 }
 .container3 {
     text-align: center;
@@ -95,6 +102,7 @@ header{
     font-size: 30px;
     font-family: "Courier 10 Pitch";
     color: mediumblue;
+    margin-top: 5%;
 }
 
 .contact{
@@ -105,23 +113,120 @@ header{
 
 }
 
-.fa fa-map-marker{
-    padding-top: 500px;
-    width: 30px;
-    height: 40px;
-    text-align: left;
-    margin-right: 400px;
-}
-
-.fa fa-phone{
-    padding-top: 500px;
-    width: 30px;
-    margin-right: 400px;
+.project1{
+    text-align: center;
+    margin-left: 485px;
 
 }
-.fa fa-envelope{
-    padding-top: 500px;
-    width: 30px;
-    margin-right: 400px;
 
+.project2{
+    text-align: center;
+    margin-left: 485px;
+}
+p{
+    font-size: 30px;
+    font-family: "Courier 10 Pitch";
+    text-align: center;
+
+}
+.video1{
+    text-align: center;
+    margin-left: 485px ;
+}
+.video2 {
+    text-align: center;
+    margin-left: 485px;
+}
+.video3 {
+    text-align: center;
+    margin-right: 450px
+}
+.video4{
+     text-align: right;
+     float: right;
+     margin-inside: 360px;
+}
+.video5 {
+    text-align: right;
+    float: right;
+
+}
+.video6 {
+    text-align: right;
+}
+
+.edu1{
+    font-size: 30px;
+    font-family: "Courier 10 Pitch";
+    text-align: center;
+}
+
+
+.edu2{
+
+
+}
+
+
+.edu3{
+
+
+
+}
+.edu4{
+    font-size: 30px;
+    font-family: "Courier 10 Pitch";
+    text-align: center;
+}
+.edu5{
+
+}
+.edu6{
+    text-align: center;
+    font-size: 30px;
+    font-family: "Courier 10 Pitch";
+}
+.edu7{
+
+
+
+}
+
+.edu8{
+    font-size: 30px;
+    font-family: "Courier 10 Pitch";
+    float: right;
+
+}
+
+.pix1{
+    font-size: larger;
+}
+/* Set a background image by replacing the URL below */
+body {
+    background: url('https://source.unsplash.com/twukN12EN7c/1920x1080') no-repeat center center fixed;
+    -webkit-background-size: cover;
+    -moz-background-size: cover;
+    background-size: cover;
+    -o-background-size: cover;
+}
+.pix2{
+    padding: 100px;
+    margin-top: 100px;
+}
+.pix3{
+    text-align: center;
+    margin-right: 450px
+}
+.container4{
+    margin: 20px;
+    display: block;
+}
+
+.btn btn-danger {
+    margin-left: 500px;
+}
+
+.end btn btn {
+    float: left;
 }
