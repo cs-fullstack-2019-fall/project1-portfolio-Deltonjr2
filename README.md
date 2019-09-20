@@ -56,3 +56,6 @@ Make sure you include the following pages:
 - http://sorenromer.com/
 - https://www.clemsonwebdesign.com/
 - https://daneden.github.io/animate.css/
+
+### Kenn's Notes:
+The home page is confusing because you have to scroll down to find the start of the page. The text is too large on the my world and about me pages. The images are not centers on the education and project page and the contact page is not centered.
